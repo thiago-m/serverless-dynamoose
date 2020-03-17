@@ -1,0 +1,19 @@
+{
+  "name": "testes-api-serverless",
+  "version": "1.0.0",
+  "description": "Testes na arquitetura serverless",
+  "main": "handler.js",
+  "dependencies": {
+    "dynamoose": "^1.11.1",
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^2.3.2",
+    "serverless-offline": "^5.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Marciel F Silva",
+  "license": "ISC"
+}
